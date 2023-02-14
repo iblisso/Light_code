@@ -1,0 +1,3 @@
+{'login': ',jhgjhgjh', 'password': 'hgfhggjk'}
+{'login': 'kjygkfjh', 'password': 'ljgjkgj'}
+{'login': 'admin', 'password': 'admin'}
